@@ -21,7 +21,7 @@ def assembled_matrix
 end
 
 def array_literal_matrix
-
+[["Bruce Green", "Don Gately", "Joelle van Dyne", "Kate Gompert", "Pat M."], ["Gerhard Schtitt", "Hal Incandenza", "Lyle", "Mario Incandenza","Michael Pemulis"]]
 end
 
 def matrix_lookup(matrix, row, column)
