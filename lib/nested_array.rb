@@ -25,7 +25,7 @@ def array_literal_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  matrix_lookup[1][1]
+  ENFIELD_TENNIS_ACADEMY[1][1]
 end
 
 def matrix_update(matrix, row, column, new_value)
