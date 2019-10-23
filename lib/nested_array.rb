@@ -29,6 +29,5 @@ def matrix_lookup(matrix, row, column)
 end
 
 def matrix_update(matrix, row, column, new_value)
-  [0][1] = "Tiny Ewell"
-  [0]
+ 
 end
