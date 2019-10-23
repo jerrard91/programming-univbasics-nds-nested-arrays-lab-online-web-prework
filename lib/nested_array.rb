@@ -29,5 +29,7 @@ def matrix_lookup(matrix, row, column)
 end
 
 def matrix_update(matrix, row, column, new_value)
-  ["Don Gately", "Joelle van Dyne", "Tiny Ewell", "Kate Gompert", "Bruce Green"]
+  result[0][2] = "Tiny Ewell"
+  result[0]
+  
 end
